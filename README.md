@@ -155,7 +155,7 @@ CM_dia (Esta variable almacea la diferencia entre el día actual y el día de na
 
 ## **Programa contador y clasificador de monedas**
 
-- ###**Descripción del problema que soluciona**
+- ### Descripción del problema que soluciona
 
 El programa permite ingresar la cantidad de monedas que el usuario desee, repartidas en tres denominaciones (10 y 25 centavos). Una vez ingresadas las monedas, el programa debe clasificar cuantas monedas de cada tipo se han ingresado, imprimir ese dato e imprimir el valor total del dinero ingresado.
 
