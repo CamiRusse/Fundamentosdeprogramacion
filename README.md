@@ -31,7 +31,7 @@ El programa permite ingresar dos cantidades que deseamos comparar, las cuales se
 
 Una vez ingresadas las variables, utilizaremos la función "if" para poder hacer una comparación lógica entre las cantidades ingresadas.
 
-- ###Salidas
+- ### **Salidas**
 
 Una vez ya terminado el proceso lógico, se pueden imprimir el total de tres posibilidades:
 
