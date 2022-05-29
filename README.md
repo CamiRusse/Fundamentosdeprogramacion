@@ -1,7 +1,7 @@
 # **PROGRAMAS EN C++ DE MUSO CAMILY**
 
 ------------
-##### *Aquí encontrarás toda la información que se necesita para manejar los programas elaborados y desarrollados en este directorio. Todos los programas a continuacion fueron desarrollados en lenguaje c++.*
+#### *Aquí encontrarás toda la información que se necesita para manejar los programas elaborados y desarrollados en este directorio. Todos los programas a continuacion fueron desarrollados en lenguaje c++.*
 
 ------------
 ### Información sobre el Autor
